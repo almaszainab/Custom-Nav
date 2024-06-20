@@ -1,0 +1,27 @@
+.carouselimage {
+  height: 520px;
+}
+
+.navbar {
+  background-color: #FF1D18;
+}
+
+.navbar-nav {
+  justify-content: center;
+  width: 100%;
+}
+
+.nav-item a:hover {
+  color: white;
+}
+
+.shopnow {
+  background-color: #FF1D18;
+  color: white;
+  width: 150px;
+}
+
+.shopnow:hover {
+  color: #FF1D18;
+  border: 2px solid #FF1D18;
+}
